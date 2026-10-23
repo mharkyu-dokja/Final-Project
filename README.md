@@ -1,0 +1,10 @@
+Student Task Tracker
+
+The Student Task Tracker is a simple web application designed to help students organize their academic tasks and deadlines. It was developed using three main technologies: HTML, CSS, and JavaScript.
+HTML (index.html) defines the structure of the application, including the task input form, deadline field, filter buttons, and task list.
+CSS (style.css) controls the appearance of the application, providing a clean layout, colors, spacing, and styling for task cards and buttons.
+JavaScript (script.js) handles the application's functionality, allowing users to add tasks, mark them as completed, delete tasks, and filter tasks by status.
+
+The application uses localStorage to save task information in the browser, allowing tasks to remain available after refreshing the page. It also includes basic input validation and status messages to help users interact with the system.
+The main goal of this project is to provide students with a convenient way to manage their schoolwork and monitor their progress. However, the current version has limitations, including no user login, no shared database, and no automatic reminders.
+Overall, this project demonstrates basic web development concepts, user interface design, data storage, and event handling. It can be improved in the future by adding user authentication, a database, notifications, and progress reports.
